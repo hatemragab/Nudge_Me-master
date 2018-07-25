@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Nudge Me</string>
+    <string name="messageHeader">Message:</string>
+    <string name="placeHeader">at</string>
+    <string name="menu_clear_all">Clear All</string>
+    <string name="menu_show_status">show Status</string>
+    <string name="menu_activate">Activate</string>
+    <string name="menu_deactivate">Deactivate</string>
+    <string name="input_hint">Remind me of..</string>
+    <string name="input_remind_me_at">Remind me at...</string>
+    <string name="input_submit">Submit</string>
+    <string name="delete_item">Delete Item</string>
+</resources>
