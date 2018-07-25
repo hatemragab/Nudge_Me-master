@@ -29,5 +29,4 @@ public class AppDatabaseHelper implements DatabaseHelper {
     public void deleteSingleNudge(long id) {
         databaseOpenHelper.deleteOne(id);
     }
-    int x;
 }
